@@ -1,0 +1,131 @@
+{
+  "id": "INV_00001",
+  "layout": "classic",
+  "supplier_name": "Copperfield Welding Supplies Ltd.",
+  "invoice_number": "INV-2026-918939",
+  "invoice_date": "2026-06-11",
+  "due_date": "2026-08-10",
+  "po_number": "PO-51245",
+  "currency": "CAD",
+  "subtotal": "17281.25",
+  "tax": "864.06",
+  "total": "18145.31",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "15",
+      "unit_price": "160.47",
+      "amount": "2407.05"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "38",
+      "unit_price": "63.21",
+      "amount": "2401.98"
+    },
+    {
+      "sku": null,
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "15",
+      "unit_price": "27.12",
+      "amount": "406.80"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "35",
+      "unit_price": "4.52",
+      "amount": "158.20"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "1",
+      "unit_price": "57.94",
+      "amount": "57.94"
+    },
+    {
+      "sku": null,
+      "description": "Industrial degreaser 20L",
+      "quantity": "18",
+      "unit_price": "68.22",
+      "amount": "1227.96"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "25",
+      "unit_price": "45.32",
+      "amount": "1133.00"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "3",
+      "unit_price": "56.49",
+      "amount": "169.47"
+    },
+    {
+      "sku": null,
+      "description": "Hard hat class E",
+      "quantity": "6",
+      "unit_price": "27.80",
+      "amount": "166.80"
+    },
+    {
+      "sku": null,
+      "description": "Pump seal kit",
+      "quantity": "13",
+      "unit_price": "126.03",
+      "amount": "1638.39"
+    },
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "19",
+      "unit_price": "89.04",
+      "amount": "1691.76"
+    },
+    {
+      "sku": null,
+      "description": "Hard hat class E",
+      "quantity": "18",
+      "unit_price": "25.34",
+      "amount": "456.12"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "23",
+      "unit_price": "38.06",
+      "amount": "875.38"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "11",
+      "unit_price": "42.16",
+      "amount": "463.76"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "25",
+      "unit_price": "150.49",
+      "amount": "3762.25"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "21",
+      "unit_price": "12.59",
+      "amount": "264.39"
+    }
+  ],
+  "n_lines": 16,
+  "table_heavy": true,
+  "defect": null,
+  "expected_flags": []
+}

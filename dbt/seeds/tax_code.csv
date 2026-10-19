@@ -1,0 +1,3 @@
+tax_code,description,rate_pct
+GST,Goods and services tax (federal),5.0
+EXEMPT,Zero-rated or exempt,0.0

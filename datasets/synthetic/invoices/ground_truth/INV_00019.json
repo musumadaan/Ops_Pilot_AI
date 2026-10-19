@@ -1,0 +1,47 @@
+{
+  "id": "INV_00019",
+  "layout": "sku",
+  "supplier_name": "Harborview Catering Services Corp.",
+  "invoice_number": "INV-2026-524784",
+  "invoice_date": "2026-03-05",
+  "due_date": "2026-05-04",
+  "po_number": "PO-80776",
+  "currency": "USD",
+  "subtotal": "5086.35",
+  "tax": "0.00",
+  "total": "5086.35",
+  "line_items": [
+    {
+      "sku": "SV-8438",
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "15",
+      "unit_price": "16.49",
+      "amount": "247.35"
+    },
+    {
+      "sku": "CH-4241",
+      "description": "Safety gloves nitrile case",
+      "quantity": "15",
+      "unit_price": "90.82",
+      "amount": "1362.30"
+    },
+    {
+      "sku": "EL-5352",
+      "description": "Forklift battery service",
+      "quantity": "8",
+      "unit_price": "430.50",
+      "amount": "3444.00"
+    },
+    {
+      "sku": "SV-5728",
+      "description": "Cable ties 300mm pack",
+      "quantity": "5",
+      "unit_price": "6.54",
+      "amount": "32.70"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

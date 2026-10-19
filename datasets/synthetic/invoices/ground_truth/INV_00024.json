@@ -1,0 +1,113 @@
+{
+  "id": "INV_00024",
+  "layout": "compact",
+  "supplier_name": "Foothills Hydraulic Services Ltd.",
+  "invoice_number": "INV-2026-101884",
+  "invoice_date": "2026-04-28",
+  "due_date": "2026-06-12",
+  "po_number": "PO-92242",
+  "currency": "CAD",
+  "subtotal": "20053.30",
+  "tax": "4010.66",
+  "total": "24063.96",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "7",
+      "unit_price": "53.84",
+      "amount": "376.88"
+    },
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "21",
+      "unit_price": "29.70",
+      "amount": "623.70"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "28",
+      "unit_price": "34.99",
+      "amount": "979.72"
+    },
+    {
+      "sku": null,
+      "description": "Pump seal kit",
+      "quantity": "12",
+      "unit_price": "64.55",
+      "amount": "869.63"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "16",
+      "unit_price": "40.92",
+      "amount": "654.72"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "30",
+      "unit_price": "304.99",
+      "amount": "9149.70"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "1",
+      "unit_price": "13.09",
+      "amount": "13.09"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "35",
+      "unit_price": "6.42",
+      "amount": "224.70"
+    },
+    {
+      "sku": null,
+      "description": "Pump seal kit",
+      "quantity": "20",
+      "unit_price": "118.48",
+      "amount": "2369.60"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "20",
+      "unit_price": "139.88",
+      "amount": "2797.60"
+    },
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "16",
+      "unit_price": "38.40",
+      "amount": "614.40"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "19",
+      "unit_price": "2.13",
+      "amount": "40.47"
+    },
+    {
+      "sku": null,
+      "description": "Hex bolts M8 x 40mm box of 100",
+      "quantity": "37",
+      "unit_price": "38.76",
+      "amount": "1434.12"
+    }
+  ],
+  "n_lines": 13,
+  "table_heavy": true,
+  "defect": "line_amount_mismatch",
+  "expected_flags": [
+    "line_amount_mismatch",
+    "subtotal_mismatch"
+  ]
+}

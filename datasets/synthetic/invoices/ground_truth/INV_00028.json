@@ -1,0 +1,40 @@
+{
+  "id": "INV_00028",
+  "layout": "compact",
+  "supplier_name": "Tundra Cleaning Supplies Corp.",
+  "invoice_number": "INV-2026-622504",
+  "invoice_date": "2026-02-02",
+  "due_date": "2026-04-03",
+  "po_number": "PO-24293",
+  "currency": "USD",
+  "subtotal": "3357.92",
+  "tax": "167.90",
+  "total": "3525.82",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Calibration of pressure gauge",
+      "quantity": "17",
+      "unit_price": "179.78",
+      "amount": "3056.26"
+    },
+    {
+      "sku": null,
+      "description": "Cable ties 300mm pack",
+      "quantity": "1",
+      "unit_price": "9.22",
+      "amount": "9.22"
+    },
+    {
+      "sku": null,
+      "description": "Hex bolts M8 x 40mm box of 100",
+      "quantity": "12",
+      "unit_price": "24.37",
+      "amount": "292.44"
+    }
+  ],
+  "n_lines": 3,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

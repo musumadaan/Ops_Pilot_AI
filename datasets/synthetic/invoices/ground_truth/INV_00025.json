@@ -1,0 +1,61 @@
+{
+  "id": "INV_00025",
+  "layout": "classic",
+  "supplier_name": "Redwood IT Hardware Ltd.",
+  "invoice_number": "INV-2026-386491",
+  "invoice_date": "2026-07-22",
+  "due_date": "2026-08-05",
+  "po_number": "PO-98188",
+  "currency": "CAD",
+  "subtotal": "12046.33",
+  "tax": "602.32",
+  "total": "12648.65",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "9",
+      "unit_price": "32.33",
+      "amount": "290.97"
+    },
+    {
+      "sku": null,
+      "description": "Preventive maintenance visit",
+      "quantity": "27",
+      "unit_price": "301.87",
+      "amount": "8150.49"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "34",
+      "unit_price": "52.09",
+      "amount": "1771.06"
+    },
+    {
+      "sku": null,
+      "description": "Cat6 patch cable 2m",
+      "quantity": "31",
+      "unit_price": "8.80",
+      "amount": "272.80"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "8",
+      "unit_price": "43.42",
+      "amount": "347.36"
+    },
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "15",
+      "unit_price": "80.91",
+      "amount": "1213.65"
+    }
+  ],
+  "n_lines": 6,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

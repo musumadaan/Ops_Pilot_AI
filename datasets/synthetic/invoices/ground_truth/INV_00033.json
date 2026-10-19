@@ -1,0 +1,131 @@
+{
+  "id": "INV_00033",
+  "layout": "classic",
+  "supplier_name": "Harborview Catering Services Corp.",
+  "invoice_number": "INV-2026-774525",
+  "invoice_date": "2026-06-01",
+  "due_date": "2026-06-15",
+  "po_number": "PO-79013",
+  "currency": "CAD",
+  "subtotal": "30686.07",
+  "tax": "1534.30",
+  "total": "32220.37",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "6",
+      "unit_price": "73.83",
+      "amount": "442.98"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "38",
+      "unit_price": "193.15",
+      "amount": "7339.70"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "37",
+      "unit_price": "52.59",
+      "amount": "1945.83"
+    },
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "10",
+      "unit_price": "81.91",
+      "amount": "819.10"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "22",
+      "unit_price": "69.12",
+      "amount": "1520.64"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "12",
+      "unit_price": "100.57",
+      "amount": "1206.84"
+    },
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "34",
+      "unit_price": "56.52",
+      "amount": "1921.68"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "25",
+      "unit_price": "119.05",
+      "amount": "2976.25"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "22",
+      "unit_price": "23.30",
+      "amount": "512.60"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "17",
+      "unit_price": "156.85",
+      "amount": "2666.45"
+    },
+    {
+      "sku": null,
+      "description": "Industrial degreaser 20L",
+      "quantity": "6",
+      "unit_price": "104.53",
+      "amount": "627.18"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "26",
+      "unit_price": "85.47",
+      "amount": "2222.22"
+    },
+    {
+      "sku": null,
+      "description": "Calibration of pressure gauge",
+      "quantity": "25",
+      "unit_price": "156.52",
+      "amount": "3913.00"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "34",
+      "unit_price": "5.84",
+      "amount": "198.56"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "2",
+      "unit_price": "45.40",
+      "amount": "90.80"
+    },
+    {
+      "sku": null,
+      "description": "Industrial degreaser 20L",
+      "quantity": "32",
+      "unit_price": "71.32",
+      "amount": "2282.24"
+    }
+  ],
+  "n_lines": 16,
+  "table_heavy": true,
+  "defect": null,
+  "expected_flags": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "INV_00005",
+  "layout": "classic",
+  "supplier_name": "Bowline Office Products Inc.",
+  "invoice_number": "INV-2026-059643",
+  "invoice_date": "2026-06-10",
+  "due_date": "2026-06-24",
+  "po_number": "PO-76562",
+  "currency": "CAD",
+  "subtotal": "5916.97",
+  "tax": "295.85",
+  "total": "6406.15",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "16",
+      "unit_price": "30.24",
+      "amount": "483.84"
+    },
+    {
+      "sku": null,
+      "description": "Cable ties 300mm pack",
+      "quantity": "28",
+      "unit_price": "7.65",
+      "amount": "214.20"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "29",
+      "unit_price": "84.44",
+      "amount": "2448.76"
+    },
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "35",
+      "unit_price": "30.74",
+      "amount": "1075.90"
+    },
+    {
+      "sku": null,
+      "description": "Thermal printer labels roll",
+      "quantity": "27",
+      "unit_price": "12.83",
+      "amount": "346.41"
+    },
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "11",
+      "unit_price": "18.85",
+      "amount": "207.35"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "30",
+      "unit_price": "34.26",
+      "amount": "1027.80"
+    },
+    {
+      "sku": null,
+      "description": "Cable ties 300mm pack",
+      "quantity": "13",
+      "unit_price": "8.67",
+      "amount": "112.71"
+    }
+  ],
+  "n_lines": 8,
+  "table_heavy": false,
+  "defect": "total_mismatch",
+  "expected_flags": [
+    "total_mismatch"
+  ]
+}

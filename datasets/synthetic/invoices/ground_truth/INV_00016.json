@@ -1,0 +1,61 @@
+{
+  "id": "INV_00016",
+  "layout": "compact",
+  "supplier_name": "Stonebridge Pallet & Crate Ltd.",
+  "invoice_number": "INV-2026-287637",
+  "invoice_date": "2026-07-04",
+  "due_date": "2026-08-03",
+  "po_number": "PO-15965",
+  "currency": "CAD",
+  "subtotal": "21433.94",
+  "tax": "2786.41",
+  "total": "24220.35",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "31",
+      "unit_price": "54.57",
+      "amount": "1691.67"
+    },
+    {
+      "sku": null,
+      "description": "Preventive maintenance visit",
+      "quantity": "36",
+      "unit_price": "391.86",
+      "amount": "14106.96"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "17",
+      "unit_price": "97.66",
+      "amount": "1660.22"
+    },
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "35",
+      "unit_price": "62.89",
+      "amount": "2201.15"
+    },
+    {
+      "sku": null,
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "31",
+      "unit_price": "22.08",
+      "amount": "684.48"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "19",
+      "unit_price": "57.34",
+      "amount": "1089.46"
+    }
+  ],
+  "n_lines": 6,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

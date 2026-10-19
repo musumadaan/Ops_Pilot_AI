@@ -1,0 +1,68 @@
+{
+  "id": "INV_00006",
+  "layout": "grid",
+  "supplier_name": "Maple Leaf Safety Supply Ltd.",
+  "invoice_number": "INV-2026-569606",
+  "invoice_date": "2026-05-06",
+  "due_date": "2026-06-20",
+  "po_number": "PO-49651",
+  "currency": "CAD",
+  "subtotal": "19262.44",
+  "tax": "963.12",
+  "total": "20225.56",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "26",
+      "unit_price": "154.77",
+      "amount": "4024.02"
+    },
+    {
+      "sku": null,
+      "description": "Pump seal kit",
+      "quantity": "39",
+      "unit_price": "49.57",
+      "amount": "1933.23"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "38",
+      "unit_price": "10.09",
+      "amount": "383.42"
+    },
+    {
+      "sku": null,
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "21",
+      "unit_price": "21.25",
+      "amount": "446.25"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "20",
+      "unit_price": "9.12",
+      "amount": "182.40"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "40",
+      "unit_price": "259.77",
+      "amount": "10390.80"
+    },
+    {
+      "sku": null,
+      "description": "Calibration of pressure gauge",
+      "quantity": "14",
+      "unit_price": "135.88",
+      "amount": "1902.32"
+    }
+  ],
+  "n_lines": 7,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "INV_00029",
+  "layout": "classic",
+  "supplier_name": "Skyline Courier Services Inc.",
+  "invoice_number": "INV-2026-132322",
+  "invoice_date": "2026-02-07",
+  "due_date": "2026-02-21",
+  "po_number": "PO-46046",
+  "currency": "CAD",
+  "subtotal": "20305.72",
+  "tax": "0.00",
+  "total": "20305.72",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Preventive maintenance visit",
+      "quantity": "34",
+      "unit_price": "374.95",
+      "amount": "12748.30"
+    },
+    {
+      "sku": null,
+      "description": "Ergonomic chair",
+      "quantity": "26",
+      "unit_price": "290.67",
+      "amount": "7557.42"
+    }
+  ],
+  "n_lines": 2,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

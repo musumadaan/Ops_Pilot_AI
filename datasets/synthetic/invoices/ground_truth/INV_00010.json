@@ -1,0 +1,68 @@
+{
+  "id": "INV_00010",
+  "layout": "grid",
+  "supplier_name": "Cobalt Fleet Maintenance Ltd.",
+  "invoice_number": "INV-2026-657194",
+  "invoice_date": "2026-05-07",
+  "due_date": "2026-06-21",
+  "po_number": "PO-41358",
+  "currency": "CAD",
+  "subtotal": "13133.73",
+  "tax": "2626.75",
+  "total": "15760.48",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "25",
+      "unit_price": "4.97",
+      "amount": "124.25"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "1",
+      "unit_price": "331.02",
+      "amount": "331.02"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "12",
+      "unit_price": "353.19",
+      "amount": "4238.28"
+    },
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "36",
+      "unit_price": "15.48",
+      "amount": "557.28"
+    },
+    {
+      "sku": null,
+      "description": "Cable ties 300mm pack",
+      "quantity": "30",
+      "unit_price": "12.01",
+      "amount": "360.30"
+    },
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "29",
+      "unit_price": "64.82",
+      "amount": "1879.78"
+    },
+    {
+      "sku": null,
+      "description": "Calibration of pressure gauge",
+      "quantity": "29",
+      "unit_price": "194.58",
+      "amount": "5642.82"
+    }
+  ],
+  "n_lines": 7,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

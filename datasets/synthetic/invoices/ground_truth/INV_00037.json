@@ -1,0 +1,54 @@
+{
+  "id": "INV_00037",
+  "layout": "classic",
+  "supplier_name": "Cedar Ridge Logistics Corp.",
+  "invoice_number": "INV-2026-826824",
+  "invoice_date": "2026-07-18",
+  "due_date": "2026-09-01",
+  "po_number": "PO-18855",
+  "currency": "CAD",
+  "subtotal": "11749.93",
+  "tax": "587.50",
+  "total": "12337.43",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "35",
+      "unit_price": "24.56",
+      "amount": "859.60"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "10",
+      "unit_price": "3.75",
+      "amount": "37.50"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "37",
+      "unit_price": "240.80",
+      "amount": "8909.60"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "5",
+      "unit_price": "73.76",
+      "amount": "368.80"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "33",
+      "unit_price": "47.71",
+      "amount": "1574.43"
+    }
+  ],
+  "n_lines": 5,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

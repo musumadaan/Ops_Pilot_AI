@@ -1,0 +1,70 @@
+{
+  "id": "INV_00009",
+  "layout": "classic",
+  "supplier_name": "Windrow Agricultural Parts Corp.",
+  "invoice_number": "INV-2026-891015",
+  "invoice_date": "2026-04-12",
+  "due_date": "2026-05-12",
+  "po_number": "PO-19545",
+  "currency": "USD",
+  "subtotal": "21045.50",
+  "tax": "2735.92",
+  "total": "23883.13",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Forklift battery service",
+      "quantity": "21",
+      "unit_price": "365.10",
+      "amount": "7667.10"
+    },
+    {
+      "sku": null,
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "27",
+      "unit_price": "30.63",
+      "amount": "827.01"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "37",
+      "unit_price": "34.23",
+      "amount": "1266.51"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "19",
+      "unit_price": "95.22",
+      "amount": "1809.18"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "29",
+      "unit_price": "176.32",
+      "amount": "5113.28"
+    },
+    {
+      "sku": null,
+      "description": "Ergonomic chair",
+      "quantity": "11",
+      "unit_price": "367.42",
+      "amount": "4041.62"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "40",
+      "unit_price": "8.02",
+      "amount": "320.80"
+    }
+  ],
+  "n_lines": 7,
+  "table_heavy": false,
+  "defect": "total_mismatch",
+  "expected_flags": [
+    "total_mismatch"
+  ]
+}

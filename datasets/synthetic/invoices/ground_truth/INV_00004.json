@@ -1,0 +1,77 @@
+{
+  "id": "INV_00004",
+  "layout": "compact",
+  "supplier_name": "Pinecrest Lab Equipment Ltd.",
+  "invoice_number": "INV-2026-489711",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-04-22",
+  "po_number": "PO-17100",
+  "currency": "CAD",
+  "subtotal": "8994.83",
+  "tax": "0.00",
+  "total": "9170.10",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "28",
+      "unit_price": "56.79",
+      "amount": "1590.12"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "20",
+      "unit_price": "4.39",
+      "amount": "87.80"
+    },
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "29",
+      "unit_price": "20.83",
+      "amount": "604.07"
+    },
+    {
+      "sku": null,
+      "description": "Industrial degreaser 20L",
+      "quantity": "2",
+      "unit_price": "105.01",
+      "amount": "210.02"
+    },
+    {
+      "sku": null,
+      "description": "Hex bolts M8 x 40mm box of 100",
+      "quantity": "5",
+      "unit_price": "34.99",
+      "amount": "174.95"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "3",
+      "unit_price": "87.28",
+      "amount": "261.84"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "18",
+      "unit_price": "314.00",
+      "amount": "5652.00"
+    },
+    {
+      "sku": null,
+      "description": "Cable ties 300mm pack",
+      "quantity": "37",
+      "unit_price": "11.19",
+      "amount": "414.03"
+    }
+  ],
+  "n_lines": 8,
+  "table_heavy": false,
+  "defect": "total_mismatch",
+  "expected_flags": [
+    "total_mismatch"
+  ]
+}

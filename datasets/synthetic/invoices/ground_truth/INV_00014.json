@@ -1,0 +1,68 @@
+{
+  "id": "INV_00014",
+  "layout": "grid",
+  "supplier_name": "Maple Leaf Safety Supply Ltd.",
+  "invoice_number": "INV-2026-847459",
+  "invoice_date": "2026-08-11",
+  "due_date": "2026-09-10",
+  "po_number": "PO-80539",
+  "currency": "USD",
+  "subtotal": "15862.55",
+  "tax": "2062.13",
+  "total": "17924.68",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "8",
+      "unit_price": "6.67",
+      "amount": "53.36"
+    },
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "38",
+      "unit_price": "23.10",
+      "amount": "877.80"
+    },
+    {
+      "sku": null,
+      "description": "Hard hat class E",
+      "quantity": "13",
+      "unit_price": "15.90",
+      "amount": "206.70"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "20",
+      "unit_price": "7.10",
+      "amount": "142.00"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "37",
+      "unit_price": "59.13",
+      "amount": "2187.81"
+    },
+    {
+      "sku": null,
+      "description": "Forklift battery service",
+      "quantity": "24",
+      "unit_price": "211.72",
+      "amount": "5081.28"
+    },
+    {
+      "sku": null,
+      "description": "Forklift battery service",
+      "quantity": "32",
+      "unit_price": "228.55",
+      "amount": "7313.60"
+    }
+  ],
+  "n_lines": 7,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

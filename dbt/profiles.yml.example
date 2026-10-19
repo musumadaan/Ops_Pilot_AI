@@ -1,0 +1,13 @@
+# Copy to ~/.dbt/profiles.yml (or set DBT_PROFILES_DIR=./dbt). Credentials come from the environment, never the repo.
+opspilot:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('PGHOST', '127.0.0.1') }}"
+      port: "{{ env_var('PGPORT', '5432') | as_number }}"
+      user: "{{ env_var('PGUSER', 'opspilot') }}"
+      password: "{{ env_var('PGPASSWORD', 'opspilot') }}"
+      dbname: "{{ env_var('PGDATABASE', 'opspilot') }}"
+      schema: analytics
+      threads: 4

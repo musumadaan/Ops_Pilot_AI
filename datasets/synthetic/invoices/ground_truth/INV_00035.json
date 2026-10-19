@@ -1,0 +1,47 @@
+{
+  "id": "INV_00035",
+  "layout": "sku",
+  "supplier_name": "Bowline Office Products Inc.",
+  "invoice_number": "INV-2026-235446",
+  "invoice_date": "2026-09-15",
+  "due_date": "2026-10-30",
+  "po_number": "PO-13694",
+  "currency": "CAD",
+  "subtotal": "8603.20",
+  "tax": "0.00",
+  "total": "8603.20",
+  "line_items": [
+    {
+      "sku": "CH-3042",
+      "description": "Calibration of pressure gauge",
+      "quantity": "7",
+      "unit_price": "166.71",
+      "amount": "1166.97"
+    },
+    {
+      "sku": "SV-8361",
+      "description": "Toner cartridge black",
+      "quantity": "6",
+      "unit_price": "161.57",
+      "amount": "969.42"
+    },
+    {
+      "sku": "HW-4637",
+      "description": "Courier service per shipment",
+      "quantity": "10",
+      "unit_price": "72.67",
+      "amount": "726.70"
+    },
+    {
+      "sku": "OF-1872",
+      "description": "Laptop docking station",
+      "quantity": "23",
+      "unit_price": "249.57",
+      "amount": "5740.11"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

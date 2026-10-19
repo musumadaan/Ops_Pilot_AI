@@ -1,0 +1,47 @@
+{
+  "id": "INV_00026",
+  "layout": "grid",
+  "supplier_name": "Northern Lights Cabling Inc.",
+  "invoice_number": "INV-2026-615871",
+  "invoice_date": "2026-07-18",
+  "due_date": "2026-09-16",
+  "po_number": "PO-30253",
+  "currency": "USD",
+  "subtotal": "7290.61",
+  "tax": "947.78",
+  "total": "8238.39",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "15",
+      "unit_price": "42.27",
+      "amount": "634.05"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "15",
+      "unit_price": "46.02",
+      "amount": "690.30"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "27",
+      "unit_price": "121.50",
+      "amount": "3280.50"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "32",
+      "unit_price": "83.93",
+      "amount": "2685.76"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

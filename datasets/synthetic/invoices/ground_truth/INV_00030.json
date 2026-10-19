@@ -1,0 +1,54 @@
+{
+  "id": "INV_00030",
+  "layout": "grid",
+  "supplier_name": "Boreal Chemical Distribution Inc.",
+  "invoice_number": "INV-2026-614954",
+  "invoice_date": "2026-02-19",
+  "due_date": "2026-04-05",
+  "po_number": "PO-83608",
+  "currency": "CAD",
+  "subtotal": "33620.63",
+  "tax": "0.00",
+  "total": "33620.63",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "39",
+      "unit_price": "43.40",
+      "amount": "1692.60"
+    },
+    {
+      "sku": null,
+      "description": "Forklift battery service",
+      "quantity": "29",
+      "unit_price": "588.52",
+      "amount": "17067.08"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "26",
+      "unit_price": "172.40",
+      "amount": "4482.40"
+    },
+    {
+      "sku": null,
+      "description": "Forklift battery service",
+      "quantity": "21",
+      "unit_price": "485.95",
+      "amount": "10204.95"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "31",
+      "unit_price": "5.60",
+      "amount": "173.60"
+    }
+  ],
+  "n_lines": 5,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

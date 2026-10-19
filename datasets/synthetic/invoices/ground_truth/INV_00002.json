@@ -1,0 +1,68 @@
+{
+  "id": "INV_00002",
+  "layout": "grid",
+  "supplier_name": "Copperfield Welding Supplies Ltd.",
+  "invoice_number": "INV-2026-003403",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-08",
+  "po_number": "PO-44522",
+  "currency": "CAD",
+  "subtotal": "9602.19",
+  "tax": "1920.44",
+  "total": "11522.63",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "10",
+      "unit_price": "149.73",
+      "amount": "1497.30"
+    },
+    {
+      "sku": null,
+      "description": "Cat6 patch cable 2m",
+      "quantity": "38",
+      "unit_price": "5.57",
+      "amount": "211.66"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "15",
+      "unit_price": "75.87",
+      "amount": "1138.05"
+    },
+    {
+      "sku": null,
+      "description": "Ergonomic chair",
+      "quantity": "6",
+      "unit_price": "399.41",
+      "amount": "2396.46"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "11",
+      "unit_price": "303.86",
+      "amount": "3342.46"
+    },
+    {
+      "sku": null,
+      "description": "Hard hat class E",
+      "quantity": "25",
+      "unit_price": "28.90",
+      "amount": "722.50"
+    },
+    {
+      "sku": null,
+      "description": "Cat6 patch cable 2m",
+      "quantity": "36",
+      "unit_price": "8.16",
+      "amount": "293.76"
+    }
+  ],
+  "n_lines": 7,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

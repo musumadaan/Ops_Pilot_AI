@@ -1,0 +1,61 @@
+{
+  "id": "INV_00034",
+  "layout": "grid",
+  "supplier_name": "Blue Heron Software Licensing Inc.",
+  "invoice_number": "INV-2026-634036",
+  "invoice_date": "2026-09-15",
+  "due_date": "2026-11-14",
+  "po_number": "PO-28140",
+  "currency": "CAD",
+  "subtotal": "6567.89",
+  "tax": "0.00",
+  "total": "6567.89",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Cable ties 300mm pack",
+      "quantity": "39",
+      "unit_price": "9.39",
+      "amount": "366.21"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "40",
+      "unit_price": "6.85",
+      "amount": "274.00"
+    },
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "27",
+      "unit_price": "18.47",
+      "amount": "498.69"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "19",
+      "unit_price": "49.58",
+      "amount": "942.02"
+    },
+    {
+      "sku": null,
+      "description": "Calibration of pressure gauge",
+      "quantity": "16",
+      "unit_price": "106.42",
+      "amount": "1702.72"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "37",
+      "unit_price": "75.25",
+      "amount": "2784.25"
+    }
+  ],
+  "n_lines": 6,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

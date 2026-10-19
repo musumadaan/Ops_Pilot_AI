@@ -1,0 +1,47 @@
+{
+  "id": "INV_00003",
+  "layout": "sku",
+  "supplier_name": "Skyline Courier Services Inc.",
+  "invoice_number": "INV-2026-131870",
+  "invoice_date": "2026-09-06",
+  "due_date": "2026-09-20",
+  "po_number": "PO-26828",
+  "currency": "USD",
+  "subtotal": "10548.73",
+  "tax": "527.44",
+  "total": "11076.17",
+  "line_items": [
+    {
+      "sku": "EL-7126",
+      "description": "Software licence annual seat",
+      "quantity": "33",
+      "unit_price": "254.42",
+      "amount": "8395.86"
+    },
+    {
+      "sku": "CH-1009",
+      "description": "Safety signage set",
+      "quantity": "11",
+      "unit_price": "60.06",
+      "amount": "660.66"
+    },
+    {
+      "sku": "HW-6947",
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "21",
+      "unit_price": "40.61",
+      "amount": "852.81"
+    },
+    {
+      "sku": "EL-2290",
+      "description": "Drill bit set 19pc",
+      "quantity": "20",
+      "unit_price": "31.97",
+      "amount": "639.40"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

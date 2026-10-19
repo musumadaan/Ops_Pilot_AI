@@ -1,0 +1,35 @@
+{
+  "id": "INV_00038",
+  "layout": "grid",
+  "supplier_name": "Foothills Hydraulic Services Ltd.",
+  "invoice_number": "INV-2026-307697",
+  "invoice_date": "2026-04-04",
+  "due_date": "2026-05-04",
+  "po_number": "PO-36422",
+  "currency": "CAD",
+  "subtotal": "3299.62",
+  "tax": "0.00",
+  "total": "3611.22",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "38",
+      "unit_price": "72.79",
+      "amount": "2766.02"
+    },
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "23",
+      "unit_price": "23.20",
+      "amount": "533.60"
+    }
+  ],
+  "n_lines": 2,
+  "table_heavy": false,
+  "defect": "total_mismatch",
+  "expected_flags": [
+    "total_mismatch"
+  ]
+}

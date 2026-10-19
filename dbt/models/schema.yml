@@ -1,0 +1,27 @@
+version: 2
+models:
+  - name: stg_invoice
+    columns:
+      - {name: invoice_id, tests: [unique, not_null]}
+      - {name: status, tests: [{accepted_values: {arguments: {values: [received, extracted, matched, exception, approved, paid, rejected]}}}]}
+  - name: stg_supplier
+    columns:
+      - {name: supplier_id, tests: [unique, not_null]}
+  - name: fct_invoice
+    description: One row per non-rejected invoice with match and payment facts.
+    columns:
+      - {name: invoice_id, tests: [unique, not_null]}
+      - name: supplier_id
+        tests: [{relationships: {arguments: {to: "ref('dim_supplier')", field: supplier_id}}}]
+      - {name: total, tests: [not_null]}
+  - name: dim_supplier
+    columns:
+      - {name: supplier_id, tests: [unique, not_null]}
+  - name: fct_invoice_exception
+    columns:
+      - {name: exception_code, tests: [not_null]}
+      - name: severity
+        tests: [{accepted_values: {arguments: {values: [error, warning, info]}}}]
+  - name: mart_spend_monthly
+    tests:
+      - unique_combination: {arguments: {columns: [month, category]}}

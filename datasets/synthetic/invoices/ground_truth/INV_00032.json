@@ -1,0 +1,166 @@
+{
+  "id": "INV_00032",
+  "layout": "compact",
+  "supplier_name": "Bowline Office Products Inc.",
+  "invoice_number": "INV-2026-077795",
+  "invoice_date": "2026-06-05",
+  "due_date": "2026-07-20",
+  "po_number": "PO-50685",
+  "currency": "USD",
+  "subtotal": "32983.82",
+  "tax": "0.00",
+  "total": "32983.82",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "6",
+      "unit_price": "16.07",
+      "amount": "96.42"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "29",
+      "unit_price": "38.08",
+      "amount": "1104.32"
+    },
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "23",
+      "unit_price": "40.49",
+      "amount": "931.27"
+    },
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "20",
+      "unit_price": "15.32",
+      "amount": "306.40"
+    },
+    {
+      "sku": null,
+      "description": "Hex bolts M8 x 40mm box of 100",
+      "quantity": "14",
+      "unit_price": "25.23",
+      "amount": "353.22"
+    },
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "17",
+      "unit_price": "43.81",
+      "amount": "744.77"
+    },
+    {
+      "sku": null,
+      "description": "Ergonomic chair",
+      "quantity": "28",
+      "unit_price": "207.98",
+      "amount": "5823.44"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "15",
+      "unit_price": "5.00",
+      "amount": "75.00"
+    },
+    {
+      "sku": null,
+      "description": "Hard hat class E",
+      "quantity": "3",
+      "unit_price": "24.91",
+      "amount": "74.73"
+    },
+    {
+      "sku": null,
+      "description": "Industrial degreaser 20L",
+      "quantity": "37",
+      "unit_price": "91.49",
+      "amount": "3385.13"
+    },
+    {
+      "sku": null,
+      "description": "Toner cartridge black",
+      "quantity": "8",
+      "unit_price": "118.60",
+      "amount": "948.80"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "40",
+      "unit_price": "43.00",
+      "amount": "1720.00"
+    },
+    {
+      "sku": null,
+      "description": "Forklift battery service",
+      "quantity": "7",
+      "unit_price": "291.93",
+      "amount": "2043.51"
+    },
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "6",
+      "unit_price": "40.89",
+      "amount": "245.34"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "22",
+      "unit_price": "345.94",
+      "amount": "7610.68"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "8",
+      "unit_price": "233.26",
+      "amount": "1866.08"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "10",
+      "unit_price": "39.34",
+      "amount": "393.40"
+    },
+    {
+      "sku": null,
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "12",
+      "unit_price": "29.25",
+      "amount": "351.00"
+    },
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "32",
+      "unit_price": "55.16",
+      "amount": "1765.12"
+    },
+    {
+      "sku": null,
+      "description": "Cleaning wipes tub",
+      "quantity": "37",
+      "unit_price": "10.79",
+      "amount": "399.23"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "21",
+      "unit_price": "130.76",
+      "amount": "2745.96"
+    }
+  ],
+  "n_lines": 21,
+  "table_heavy": true,
+  "defect": null,
+  "expected_flags": []
+}

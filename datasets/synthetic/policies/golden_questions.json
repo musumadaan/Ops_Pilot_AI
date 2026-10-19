@@ -1,0 +1,184 @@
+{
+  "answerable": [
+    {
+      "question": "What price difference is allowed between an invoice and the purchase order?",
+      "doc_id": "POL-AP-001",
+      "section": "Price tolerance",
+      "role": "analyst"
+    },
+    {
+      "question": "How much can an invoice unit price vary from the PO before it is held?",
+      "doc_id": "POL-AP-001",
+      "section": "Price tolerance",
+      "role": "analyst"
+    },
+    {
+      "question": "Can we pay for goods that have not arrived yet?",
+      "doc_id": "POL-AP-001",
+      "section": "Three-way match",
+      "role": "analyst"
+    },
+    {
+      "question": "Why is an invoice received on a Sunday flagged?",
+      "doc_id": "POL-AP-001",
+      "section": "Invoice receipt and posting",
+      "role": "analyst"
+    },
+    {
+      "question": "What happens when two invoices from one supplier have the same number?",
+      "doc_id": "POL-AP-002",
+      "section": "Duplicate invoice numbers",
+      "role": "analyst"
+    },
+    {
+      "question": "Invoices with the same total from one vendor within two weeks - what is the rule?",
+      "doc_id": "POL-AP-002",
+      "section": "Possible duplicates by amount",
+      "role": "analyst"
+    },
+    {
+      "question": "What is invoice splitting and how do we detect it?",
+      "doc_id": "POL-AP-002",
+      "section": "Split invoices",
+      "role": "analyst"
+    },
+    {
+      "question": "Are invoice totals that are multiples of one thousand a problem?",
+      "doc_id": "POL-AP-002",
+      "section": "Round amounts",
+      "role": "analyst"
+    },
+    {
+      "question": "At what invoice value do we need approval above the buyer?",
+      "doc_id": "POL-APR-001",
+      "section": "Approval threshold",
+      "role": "analyst"
+    },
+    {
+      "question": "Who can approve a 120,000 dollar invoice?",
+      "doc_id": "POL-APR-001",
+      "section": "Approval limits",
+      "role": "analyst"
+    },
+    {
+      "question": "Can the buyer who raised the PO approve its large invoice?",
+      "doc_id": "POL-APR-001",
+      "section": "Segregation of duties",
+      "role": "analyst"
+    },
+    {
+      "question": "What if an approver is away for a week?",
+      "doc_id": "POL-APR-001",
+      "section": "Delegation",
+      "role": "analyst"
+    },
+    {
+      "question": "When is a purchase order required?",
+      "doc_id": "POL-PRC-004",
+      "section": "Purchase order requirement",
+      "role": "analyst"
+    },
+    {
+      "question": "How many quotes for a 30,000 dollar purchase?",
+      "doc_id": "POL-PRC-004",
+      "section": "Competitive quotes",
+      "role": "analyst"
+    },
+    {
+      "question": "Does a contract tolerance override the default price tolerance?",
+      "doc_id": "POL-PRC-004",
+      "section": "Contracts and price tolerance",
+      "role": "analyst"
+    },
+    {
+      "question": "How long do we keep invoices?",
+      "doc_id": "POL-RET-002",
+      "section": "Financial records",
+      "role": "guest"
+    },
+    {
+      "question": "Can audit logs be edited?",
+      "doc_id": "POL-RET-002",
+      "section": "Audit logs",
+      "role": "guest"
+    },
+    {
+      "question": "What is the daily meal allowance when travelling?",
+      "doc_id": "POL-HR-020",
+      "section": "Meals",
+      "role": "guest"
+    },
+    {
+      "question": "How soon must expense reports be submitted?",
+      "doc_id": "POL-HR-020",
+      "section": "Expense reports",
+      "role": "guest"
+    },
+    {
+      "question": "How long must passwords be?",
+      "doc_id": "POL-IT-011",
+      "section": "Passwords and access",
+      "role": "guest"
+    },
+    {
+      "question": "Can I use an AI assistant for payment decisions?",
+      "doc_id": "POL-IT-011",
+      "section": "AI tools",
+      "role": "guest"
+    },
+    {
+      "question": "What do receiving staff do with damaged goods?",
+      "doc_id": "POL-INV-003",
+      "section": "Receiving inspection",
+      "role": "analyst"
+    },
+    {
+      "question": "A supplier sends new bank details. How do we verify them?",
+      "doc_id": "POL-VND-001",
+      "section": "Bank account change verification",
+      "role": "finance_admin"
+    },
+    {
+      "question": "An invoice shows a different bank account than last time - what now?",
+      "doc_id": "POL-VND-001",
+      "section": "Bank change on invoice",
+      "role": "finance_admin"
+    },
+    {
+      "question": "How do we report suspected invoice fraud?",
+      "doc_id": "POL-FIN-009",
+      "section": "Escalation",
+      "role": "finance_admin"
+    },
+    {
+      "question": "What must be recorded in a fraud investigation?",
+      "doc_id": "POL-FIN-009",
+      "section": "Evidence handling",
+      "role": "finance_admin"
+    }
+  ],
+  "unanswerable": [
+    "What is the company policy on remote work from other countries?",
+    "How many vacation days do new employees get?",
+    "What is the maximum jet fuel surcharge on freight invoices?",
+    "Who won the hockey game last night?"
+  ],
+  "restricted_probes": [
+    {
+      "question": "A supplier sends new bank details. How do we verify them?",
+      "role": "guest"
+    },
+    {
+      "question": "A supplier sends new bank details. How do we verify them?",
+      "role": "analyst"
+    },
+    {
+      "question": "How do we report suspected invoice fraud?",
+      "role": "analyst"
+    },
+    {
+      "question": "Is there whistleblower protection for fraud reports?",
+      "role": "guest"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+artifacts/
+
+# Local caches and generated package metadata
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# Large local datasets and generated outputs
+datasets/
+outputs/
+
+# Include lightweight synthetic data needed by the hosted demo
+!datasets/
+datasets/*
+!datasets/synthetic/
+datasets/synthetic/*
+!datasets/synthetic/suppliers.csv
+!datasets/synthetic/policies/
+!datasets/synthetic/invoices/
+datasets/synthetic/invoices/*
+!datasets/synthetic/invoices/pdf/
+!datasets/synthetic/invoices/ground_truth/
+
+# Generated logs and local evaluation outputs
+dbt/logs/
+modules/data_quality/reports/
+modules/evaluation/reports/
+modules/qa/reports/
+modules/rag/reports/
+dbt/.user.yml

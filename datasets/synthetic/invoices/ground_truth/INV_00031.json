@@ -1,0 +1,75 @@
+{
+  "id": "INV_00031",
+  "layout": "sku",
+  "supplier_name": "Blue Heron Software Licensing Inc.",
+  "invoice_number": "INV-2026-326776",
+  "invoice_date": "2026-07-12",
+  "due_date": "2026-09-10",
+  "po_number": "PO-52517",
+  "currency": "CAD",
+  "subtotal": "7302.80",
+  "tax": "949.36",
+  "total": "8252.16",
+  "line_items": [
+    {
+      "sku": "HW-5712",
+      "description": "Cleaning wipes tub",
+      "quantity": "28",
+      "unit_price": "12.81",
+      "amount": "358.68"
+    },
+    {
+      "sku": "CH-9313",
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "20",
+      "unit_price": "35.96",
+      "amount": "719.20"
+    },
+    {
+      "sku": "EL-2773",
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "10",
+      "unit_price": "30.45",
+      "amount": "304.50"
+    },
+    {
+      "sku": "SV-4705",
+      "description": "Welding rods 3.2mm box",
+      "quantity": "36",
+      "unit_price": "45.64",
+      "amount": "1643.04"
+    },
+    {
+      "sku": "CH-1430",
+      "description": "Drill bit set 19pc",
+      "quantity": "28",
+      "unit_price": "62.26",
+      "amount": "1743.28"
+    },
+    {
+      "sku": "SV-6062",
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "18",
+      "unit_price": "24.98",
+      "amount": "449.64"
+    },
+    {
+      "sku": "EL-7566",
+      "description": "Industrial degreaser 20L",
+      "quantity": "23",
+      "unit_price": "55.52",
+      "amount": "1276.96"
+    },
+    {
+      "sku": "HW-2503",
+      "description": "Safety gloves nitrile case",
+      "quantity": "10",
+      "unit_price": "80.75",
+      "amount": "807.50"
+    }
+  ],
+  "n_lines": 8,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

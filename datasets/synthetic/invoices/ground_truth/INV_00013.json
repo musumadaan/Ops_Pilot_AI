@@ -1,0 +1,47 @@
+{
+  "id": "INV_00013",
+  "layout": "classic",
+  "supplier_name": "Lakeshore Printing & Signs Inc.",
+  "invoice_number": "INV-2026-487624",
+  "invoice_date": "2026-03-06",
+  "due_date": "2026-05-05",
+  "po_number": "PO-43586",
+  "currency": "CAD",
+  "subtotal": "7962.51",
+  "tax": "1035.13",
+  "total": "8997.64",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "25",
+      "unit_price": "43.09",
+      "amount": "1077.25"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "31",
+      "unit_price": "41.07",
+      "amount": "1273.17"
+    },
+    {
+      "sku": null,
+      "description": "Welding rods 3.2mm box",
+      "quantity": "15",
+      "unit_price": "59.21",
+      "amount": "888.15"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "13",
+      "unit_price": "363.38",
+      "amount": "4723.94"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

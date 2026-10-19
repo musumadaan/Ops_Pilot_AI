@@ -1,0 +1,40 @@
+{
+  "id": "INV_00018",
+  "layout": "grid",
+  "supplier_name": "Silverbirch Furniture Co.",
+  "invoice_number": "INV-2026-164137",
+  "invoice_date": "2026-02-11",
+  "due_date": "2026-03-13",
+  "po_number": "PO-10350",
+  "currency": "USD",
+  "subtotal": "4327.38",
+  "tax": "865.48",
+  "total": "5192.86",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "34",
+      "unit_price": "49.72",
+      "amount": "1690.48"
+    },
+    {
+      "sku": null,
+      "description": "Pump seal kit",
+      "quantity": "28",
+      "unit_price": "80.12",
+      "amount": "2243.36"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "7",
+      "unit_price": "56.22",
+      "amount": "393.54"
+    }
+  ],
+  "n_lines": 3,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

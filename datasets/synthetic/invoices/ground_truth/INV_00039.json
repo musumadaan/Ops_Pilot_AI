@@ -1,0 +1,47 @@
+{
+  "id": "INV_00039",
+  "layout": "sku",
+  "supplier_name": "Aurora Electrical Components Inc.",
+  "invoice_number": "INV-2026-969210",
+  "invoice_date": "2026-06-23",
+  "due_date": "2026-07-23",
+  "po_number": "PO-78062",
+  "currency": "CAD",
+  "subtotal": "3469.22",
+  "tax": "0.00",
+  "total": "3469.22",
+  "line_items": [
+    {
+      "sku": "CH-8756",
+      "description": "Courier service per shipment",
+      "quantity": "26",
+      "unit_price": "84.21",
+      "amount": "2189.46"
+    },
+    {
+      "sku": "EL-5687",
+      "description": "Cat6 patch cable 2m",
+      "quantity": "3",
+      "unit_price": "7.52",
+      "amount": "22.56"
+    },
+    {
+      "sku": "SV-5476",
+      "description": "Welding rods 3.2mm box",
+      "quantity": "4",
+      "unit_price": "69.56",
+      "amount": "278.24"
+    },
+    {
+      "sku": "OF-8204",
+      "description": "LED panel light 40W",
+      "quantity": "24",
+      "unit_price": "40.79",
+      "amount": "978.96"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

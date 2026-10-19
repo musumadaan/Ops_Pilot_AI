@@ -1,0 +1,47 @@
+{
+  "id": "INV_00036",
+  "layout": "compact",
+  "supplier_name": "Summit Industrial Fasteners Ltd.",
+  "invoice_number": "INV-2026-250022",
+  "invoice_date": "2026-02-26",
+  "due_date": "2026-04-12",
+  "po_number": "PO-65027",
+  "currency": "USD",
+  "subtotal": "663.25",
+  "tax": "0.00",
+  "total": "663.25",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "10",
+      "unit_price": "26.88",
+      "amount": "268.80"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "9",
+      "unit_price": "6.55",
+      "amount": "58.95"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "1",
+      "unit_price": "54.80",
+      "amount": "54.80"
+    },
+    {
+      "sku": null,
+      "description": "Pallet wrap 18 in roll",
+      "quantity": "10",
+      "unit_price": "28.07",
+      "amount": "280.70"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

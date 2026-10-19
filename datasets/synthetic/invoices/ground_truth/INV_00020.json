@@ -1,0 +1,54 @@
+{
+  "id": "INV_00020",
+  "layout": "compact",
+  "supplier_name": "Harborview Catering Services Corp.",
+  "invoice_number": "INV-2026-431642",
+  "invoice_date": "2026-06-20",
+  "due_date": "2026-08-04",
+  "po_number": "PO-74942",
+  "currency": "CAD",
+  "subtotal": "36231.13",
+  "tax": "0.00",
+  "total": "36231.13",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Preventive maintenance visit",
+      "quantity": "21",
+      "unit_price": "550.15",
+      "amount": "11553.15"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "37",
+      "unit_price": "290.27",
+      "amount": "10739.99"
+    },
+    {
+      "sku": null,
+      "description": "Pump seal kit",
+      "quantity": "3",
+      "unit_price": "132.76",
+      "amount": "398.28"
+    },
+    {
+      "sku": null,
+      "description": "Courier service per shipment",
+      "quantity": "29",
+      "unit_price": "78.87",
+      "amount": "2287.23"
+    },
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "32",
+      "unit_price": "351.64",
+      "amount": "11252.48"
+    }
+  ],
+  "n_lines": 5,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

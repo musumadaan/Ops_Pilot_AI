@@ -1,0 +1,61 @@
+{
+  "id": "INV_00021",
+  "layout": "classic",
+  "supplier_name": "Blue Heron Software Licensing Inc.",
+  "invoice_number": "INV-2026-882278",
+  "invoice_date": "2026-06-09",
+  "due_date": "2026-06-23",
+  "po_number": "PO-24871",
+  "currency": "USD",
+  "subtotal": "6739.27",
+  "tax": "876.11",
+  "total": "7615.38",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "30",
+      "unit_price": "11.29",
+      "amount": "338.70"
+    },
+    {
+      "sku": null,
+      "description": "LED panel light 40W",
+      "quantity": "26",
+      "unit_price": "59.19",
+      "amount": "1538.94"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "27",
+      "unit_price": "118.13",
+      "amount": "3189.51"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "32",
+      "unit_price": "45.26",
+      "amount": "1448.32"
+    },
+    {
+      "sku": null,
+      "description": "Cat6 patch cable 2m",
+      "quantity": "36",
+      "unit_price": "3.79",
+      "amount": "136.44"
+    },
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "32",
+      "unit_price": "2.73",
+      "amount": "87.36"
+    }
+  ],
+  "n_lines": 6,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

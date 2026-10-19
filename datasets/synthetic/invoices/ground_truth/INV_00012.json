@@ -1,0 +1,49 @@
+{
+  "id": "INV_00012",
+  "layout": "compact",
+  "supplier_name": "Ironwood Building Materials Ltd.",
+  "invoice_number": "INV-2026-052728",
+  "invoice_date": "2026-07-21",
+  "due_date": "2026-08-04",
+  "po_number": "PO-44099",
+  "currency": "USD",
+  "subtotal": "32714.53",
+  "tax": "1635.73",
+  "total": "34524.56",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Safety signage set",
+      "quantity": "25",
+      "unit_price": "80.47",
+      "amount": "2011.75"
+    },
+    {
+      "sku": null,
+      "description": "Preventive maintenance visit",
+      "quantity": "35",
+      "unit_price": "663.92",
+      "amount": "23237.20"
+    },
+    {
+      "sku": null,
+      "description": "Steel plate 6mm per sheet",
+      "quantity": "18",
+      "unit_price": "246.39",
+      "amount": "4435.02"
+    },
+    {
+      "sku": null,
+      "description": "Industrial degreaser 20L",
+      "quantity": "26",
+      "unit_price": "116.56",
+      "amount": "3030.56"
+    }
+  ],
+  "n_lines": 4,
+  "table_heavy": false,
+  "defect": "total_mismatch",
+  "expected_flags": [
+    "total_mismatch"
+  ]
+}

@@ -1,0 +1,23 @@
+version: 2
+sources:
+  - name: ops
+    schema: ops
+    description: Operational procurement tables owned by the Alembic migrations (not by dbt).
+    tables:
+      - name: supplier
+        columns:
+          - {name: supplier_id, tests: [unique, not_null]}
+      - name: purchase_order
+        columns:
+          - {name: po_number, tests: [unique, not_null]}
+      - name: invoice
+        loaded_at_field: received_at
+        freshness:
+          warn_after: {count: 400, period: day}
+        columns:
+          - {name: invoice_id, tests: [unique, not_null]}
+      - name: invoice_line
+      - name: payment
+      - name: budget
+      - name: v_invoice_exceptions
+      - name: v_invoice_match_status

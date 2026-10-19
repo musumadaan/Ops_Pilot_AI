@@ -1,0 +1,54 @@
+{
+  "id": "INV_00022",
+  "layout": "grid",
+  "supplier_name": "Summit Industrial Fasteners Ltd.",
+  "invoice_number": "INV-2026-348589",
+  "invoice_date": "2026-09-08",
+  "due_date": "2026-10-08",
+  "po_number": "PO-82340",
+  "currency": "USD",
+  "subtotal": "10306.81",
+  "tax": "2061.36",
+  "total": "12368.17",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Rubber gasket 50mm",
+      "quantity": "19",
+      "unit_price": "5.05",
+      "amount": "95.95"
+    },
+    {
+      "sku": null,
+      "description": "Ergonomic chair",
+      "quantity": "31",
+      "unit_price": "230.43",
+      "amount": "7143.33"
+    },
+    {
+      "sku": null,
+      "description": "Hard hat class E",
+      "quantity": "13",
+      "unit_price": "37.05",
+      "amount": "481.65"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "18",
+      "unit_price": "82.50",
+      "amount": "1485.00"
+    },
+    {
+      "sku": null,
+      "description": "Drill bit set 19pc",
+      "quantity": "33",
+      "unit_price": "33.36",
+      "amount": "1100.88"
+    }
+  ],
+  "n_lines": 5,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

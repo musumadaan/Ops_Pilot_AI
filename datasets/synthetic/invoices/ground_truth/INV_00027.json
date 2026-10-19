@@ -1,0 +1,61 @@
+{
+  "id": "INV_00027",
+  "layout": "sku",
+  "supplier_name": "Copperfield Welding Supplies Ltd.",
+  "invoice_number": "INV-2026-811985",
+  "invoice_date": "2026-04-17",
+  "due_date": "2026-05-17",
+  "po_number": "PO-29340",
+  "currency": "CAD",
+  "subtotal": "12802.14",
+  "tax": "640.11",
+  "total": "13442.25",
+  "line_items": [
+    {
+      "sku": "SV-4559",
+      "description": "Forklift battery service",
+      "quantity": "18",
+      "unit_price": "195.05",
+      "amount": "3510.90"
+    },
+    {
+      "sku": "SV-2627",
+      "description": "Laptop docking station",
+      "quantity": "29",
+      "unit_price": "252.58",
+      "amount": "7324.82"
+    },
+    {
+      "sku": "SV-1992",
+      "description": "Cleaning wipes tub",
+      "quantity": "24",
+      "unit_price": "9.90",
+      "amount": "237.60"
+    },
+    {
+      "sku": "HW-8450",
+      "description": "Hard hat class E",
+      "quantity": "18",
+      "unit_price": "18.75",
+      "amount": "337.50"
+    },
+    {
+      "sku": "CH-1349",
+      "description": "Safety gloves nitrile case",
+      "quantity": "14",
+      "unit_price": "75.29",
+      "amount": "1054.06"
+    },
+    {
+      "sku": "EL-4362",
+      "description": "Hydraulic hose 3/4 in per metre",
+      "quantity": "22",
+      "unit_price": "15.33",
+      "amount": "337.26"
+    }
+  ],
+  "n_lines": 6,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

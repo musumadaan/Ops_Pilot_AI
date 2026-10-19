@@ -1,0 +1,68 @@
+{
+  "id": "INV_00007",
+  "layout": "sku",
+  "supplier_name": "Blue Heron Software Licensing Inc.",
+  "invoice_number": "INV-2026-382365",
+  "invoice_date": "2026-07-09",
+  "due_date": "2026-08-08",
+  "po_number": "PO-15229",
+  "currency": "CAD",
+  "subtotal": "19360.41",
+  "tax": "968.02",
+  "total": "20328.43",
+  "line_items": [
+    {
+      "sku": "HW-3546",
+      "description": "LED panel light 40W",
+      "quantity": "9",
+      "unit_price": "33.37",
+      "amount": "300.33"
+    },
+    {
+      "sku": "SV-4335",
+      "description": "Cat6 patch cable 2m",
+      "quantity": "19",
+      "unit_price": "6.63",
+      "amount": "125.97"
+    },
+    {
+      "sku": "SV-1832",
+      "description": "Cleaning wipes tub",
+      "quantity": "17",
+      "unit_price": "9.55",
+      "amount": "162.35"
+    },
+    {
+      "sku": "HW-1058",
+      "description": "Safety gloves nitrile case",
+      "quantity": "28",
+      "unit_price": "85.61",
+      "amount": "2397.08"
+    },
+    {
+      "sku": "SV-3647",
+      "description": "Industrial degreaser 20L",
+      "quantity": "9",
+      "unit_price": "109.15",
+      "amount": "982.35"
+    },
+    {
+      "sku": "OF-1158",
+      "description": "Preventive maintenance visit",
+      "quantity": "29",
+      "unit_price": "519.97",
+      "amount": "15079.13"
+    },
+    {
+      "sku": "EL-9938",
+      "description": "LED panel light 40W",
+      "quantity": "5",
+      "unit_price": "62.64",
+      "amount": "313.20"
+    }
+  ],
+  "n_lines": 7,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

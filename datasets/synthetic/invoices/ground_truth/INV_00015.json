@@ -1,0 +1,61 @@
+{
+  "id": "INV_00015",
+  "layout": "sku",
+  "supplier_name": "Harborview Catering Services Corp.",
+  "invoice_number": "INV-2026-308529",
+  "invoice_date": "2026-09-01",
+  "due_date": "2026-10-31",
+  "po_number": "PO-39045",
+  "currency": "USD",
+  "subtotal": "8183.17",
+  "tax": "1063.81",
+  "total": "9246.98",
+  "line_items": [
+    {
+      "sku": "HW-5569",
+      "description": "Cat6 patch cable 2m",
+      "quantity": "21",
+      "unit_price": "8.11",
+      "amount": "170.31"
+    },
+    {
+      "sku": "CH-7209",
+      "description": "Laptop docking station",
+      "quantity": "16",
+      "unit_price": "222.57",
+      "amount": "3561.12"
+    },
+    {
+      "sku": "SV-3979",
+      "description": "Industrial degreaser 20L",
+      "quantity": "2",
+      "unit_price": "97.02",
+      "amount": "194.04"
+    },
+    {
+      "sku": "SV-6576",
+      "description": "Ergonomic chair",
+      "quantity": "14",
+      "unit_price": "267.09",
+      "amount": "3739.26"
+    },
+    {
+      "sku": "SV-1166",
+      "description": "Cat6 patch cable 2m",
+      "quantity": "39",
+      "unit_price": "7.21",
+      "amount": "281.19"
+    },
+    {
+      "sku": "OF-9004",
+      "description": "Courier service per shipment",
+      "quantity": "13",
+      "unit_price": "18.25",
+      "amount": "237.25"
+    }
+  ],
+  "n_lines": 6,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

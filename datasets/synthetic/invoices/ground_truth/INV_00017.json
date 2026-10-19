@@ -1,0 +1,43 @@
+{
+  "id": "INV_00017",
+  "layout": "classic",
+  "supplier_name": "Pinecrest Lab Equipment Ltd.",
+  "invoice_number": "INV-2026-124206",
+  "invoice_date": "2026-02-07",
+  "due_date": "2026-02-21",
+  "po_number": "PO-83147",
+  "currency": "USD",
+  "subtotal": "13036.33",
+  "tax": "0.00",
+  "total": "13036.33",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Software licence annual seat",
+      "quantity": "32",
+      "unit_price": "117.70",
+      "amount": "3766.40"
+    },
+    {
+      "sku": null,
+      "description": "Ergonomic chair",
+      "quantity": "31",
+      "unit_price": "295.35",
+      "amount": "9155.85"
+    },
+    {
+      "sku": null,
+      "description": "Cat6 patch cable 2m",
+      "quantity": "31",
+      "unit_price": "3.68",
+      "amount": "256.70"
+    }
+  ],
+  "n_lines": 3,
+  "table_heavy": false,
+  "defect": "line_amount_mismatch",
+  "expected_flags": [
+    "line_amount_mismatch",
+    "subtotal_mismatch"
+  ]
+}

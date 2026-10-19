@@ -1,0 +1,40 @@
+{
+  "id": "INV_00011",
+  "layout": "sku",
+  "supplier_name": "Harborview Catering Services Corp.",
+  "invoice_number": "INV-2026-612452",
+  "invoice_date": "2026-02-01",
+  "due_date": "2026-03-03",
+  "po_number": "PO-12560",
+  "currency": "USD",
+  "subtotal": "1874.38",
+  "tax": "0.00",
+  "total": "1874.38",
+  "line_items": [
+    {
+      "sku": "CH-2320",
+      "description": "Cat6 patch cable 2m",
+      "quantity": "22",
+      "unit_price": "4.92",
+      "amount": "108.24"
+    },
+    {
+      "sku": "EL-4505",
+      "description": "Cable ties 300mm pack",
+      "quantity": "10",
+      "unit_price": "8.08",
+      "amount": "80.80"
+    },
+    {
+      "sku": "CH-8633",
+      "description": "Safety gloves nitrile case",
+      "quantity": "27",
+      "unit_price": "62.42",
+      "amount": "1685.34"
+    }
+  ],
+  "n_lines": 3,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}

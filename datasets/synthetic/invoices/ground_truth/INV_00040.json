@@ -1,0 +1,54 @@
+{
+  "id": "INV_00040",
+  "layout": "compact",
+  "supplier_name": "Cedar Ridge Logistics Corp.",
+  "invoice_number": "INV-2026-132362",
+  "invoice_date": "2026-01-16",
+  "due_date": "2026-02-15",
+  "po_number": "PO-18812",
+  "currency": "CAD",
+  "subtotal": "3615.57",
+  "tax": "470.02",
+  "total": "4085.59",
+  "line_items": [
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "12",
+      "unit_price": "42.55",
+      "amount": "510.60"
+    },
+    {
+      "sku": null,
+      "description": "Safety gloves nitrile case",
+      "quantity": "21",
+      "unit_price": "76.35",
+      "amount": "1603.35"
+    },
+    {
+      "sku": null,
+      "description": "Cutting disc 125mm pack of 25",
+      "quantity": "28",
+      "unit_price": "29.67",
+      "amount": "830.76"
+    },
+    {
+      "sku": null,
+      "description": "Laptop docking station",
+      "quantity": "3",
+      "unit_price": "219.02",
+      "amount": "657.06"
+    },
+    {
+      "sku": null,
+      "description": "Cat6 patch cable 2m",
+      "quantity": "4",
+      "unit_price": "3.45",
+      "amount": "13.80"
+    }
+  ],
+  "n_lines": 5,
+  "table_heavy": false,
+  "defect": null,
+  "expected_flags": []
+}
